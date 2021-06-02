@@ -1,0 +1,13 @@
+.PlaceListCard {
+  position: relative;
+  margin: 0;
+  box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.26);
+  border-radius: 1px;
+  padding: 0.6rem;
+  overflow: hidden;
+  background:#fdfdfd
+  ;
+}
+
+
+
